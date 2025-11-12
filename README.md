@@ -57,4 +57,3 @@
          <h2>sekian dan terima kasih<h2>
 <h1 class="glitch">© Noctura</h1>
 <h1 class="glitch">© TraserSecTeam</h1>
-  </ul>
