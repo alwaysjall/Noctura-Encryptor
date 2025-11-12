@@ -1,4 +1,7 @@
-  <h1>Hi saya adalah Always Jall</h1>
+  <h1>Hi saya Noctura</h1>
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/alwaysjall/ISI/main/Nocturaa.png" width="650" alt="Noctura">
+</p>
   <p><strong>Pengembang | Pemburu Bug </strong><br>
   Berfokus pada: Keamanan Siber, Otomatisasi Python, Alat Ofensif</p>
 
@@ -22,14 +25,22 @@
 
   <hr>
 
+  <p align="center">
+  <b> AES-GCM 256-bit Multi Encryptor </b><br>
+  <i>by Noctura - Aesthetic Developer & TraserSecTeam</i><br><br>
+  🔒 Encrypt for Python | JS | HTML | Shell Scripts
+</p>
+
+  <hr>
+  
   <h2>cara menggunakan Tools di Termux</h2>
   <ul>
 <li><code>$</code>pkg update && pkg upgrade -y</li>
-<li><code>$</code>pip install rich</li>
+<li><code>$</code>pip install cryptography rich</li>
     <li><code>$</code>pkg install git</li>       <li><code>$</code>pkg install python -y</li>
-    <li><code>$</code>git clone https://github.com/alwaysjall/Noctura</li>
-    <li><code>$</code>cd Noctura</li>
-         <li><code>$</code>python Noctura.py</li>
+    <li><code>$</code>git clone https://github.com/alwaysjall/Noctura-Encryptor</li>
+    <li><code>$</code>cd Noctura-Encryptor</li>
+         <li><code>$</code>python Noctura-Encryptor.py</li>
      </ul>
          
    <hr>
@@ -39,12 +50,11 @@
   <ul>
 <li><code>$</code>sudo apt update && sudo apt upgrade -y</li>
 <li><code>$</code>sudo apt install python3 python3-pip git -y</li>
-    <li><code>$</code>pip3 install rich</li>
-        <li><code>$</code>git clone https://github.com/alwaysjall/Noctura</li>
-  <li><code>$</code>cd Noctura</li>
-         <li><code>$</code>python3 Noctura.py</li>
+    <li><code>$</code>pip3 install cryptography rich</li>
+        <li><code>$</code>git clone https://github.com/alwaysjall/Noctura-Encryptor</li>
+  <li><code>$</code>cd Noctura-Encryptor</li>
+         <li><code>$</code>python3 Noctura-Encryptor</li>
          <h2>sekian dan terima kasih<h2>
-<h1 class="glitch">© Always Jall</h1>
+<h1 class="glitch">© Noctura</h1>
+<h1 class="glitch">© TraserSecTeam</h1>
   </ul>
-</body>
-</html>
